@@ -1,0 +1,6076 @@
+{
+    "AE": [
+        "United Arab Emirates",
+        {
+            "ZR": [
+                "International Advanced Passenger Information Fee",
+                "Both",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "AE": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "F6": [
+                "Passenger Facilities Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "TP": [
+                "Passenger Security and Safety Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "AF": [
+        "Afghanistan",
+        {
+            "M5": [
+                "Airport Development Fee",
+                "Departure",
+                "Infants under 2 with or without a seat, Interline transfer up to and including 24h"
+            ]
+        },
+        {
+            "AF": [
+                "Airport Departure Fee",
+                "Departure",
+                "Infants under 2, Transit/Transfer 24h, Diplomats"
+            ]
+        }
+    ],
+    "AI": [
+        "Anguilla",
+        {
+            "EO": [
+                "Airport Expansion Tax",
+                "Arrival",
+                "None"
+            ]
+        },
+        {
+            "AI": [
+                "Baggage Security Screening Fee",
+                "Departure",
+                "None"
+            ]
+        },
+        {
+            "EP": [
+                "Security & Development Tax",
+                "Departure",
+                "Residents of Anguilla departing to St.Maarten(SXM)"
+            ]
+        }
+    ],
+    "AL": [
+        "Albania",
+        {
+            "HA": [
+                "Tirana Security Charge",
+                "Both",
+                "Infants under 2"
+            ]
+        },
+        {
+            "R2": [
+                "Airport Passenger Security Charge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "AL": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "IX": [
+                "Intl Border Crossing Tax",
+                "Departure",
+                "Infants under 2, Military flights"
+            ]
+        }
+    ],
+    "AM": [
+        "Armenia",
+        {
+            "AM": [
+                "State Tax",
+                "Departure",
+                "Infants under 2, Children 2-12, Transit/transfer pax within 24h"
+            ]
+        },
+        {
+            "KC": [
+                "Passenger Airport & Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "AO": [
+        "Angola",
+        {
+            "AO": [
+                "Embarkation Tax",
+                "Departure",
+                "Transit/Transfer pax not leaving airport, Infants under 2"
+            ]
+        },
+        {
+            "MB": [
+                "Security Tax",
+                "Departure",
+                "None"
+            ]
+        }
+    ],
+    "AR": [
+        "Argentina",
+        {
+            "IV": [
+                "Airport Infrastructure Improvement Fee",
+                "Departure",
+                "Infants under 3 without a seat, Direct transit passengers not leaving the aircraft"
+            ]
+        },
+        {
+            "QO": [
+                "Custom and Immigration Services Tax",
+                "Departure",
+                "Intl Transit/Transfer pax within 6hrs, Infants under 2, Argentine diplomats/consular officers on official missions or invited by a foreign Government Authority/ International Transit/Transfer Passengers without custom/immigration procedures"
+            ]
+        },
+        {
+            "TQ": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2, Transit/Transfer 24h, Diplomats leaving USH ato"
+            ]
+        },
+        {
+            "XR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2 without a seat, Transfer pax within 6 hrs, Direct transit pax on same flight, Diplomats"
+            ]
+        },
+        {
+            "AR": [
+                "Ticket Tax DNT",
+                "VAT",
+                "Diplomats stationed in Argentina & their families/personnel"
+            ]
+        },
+        {
+            "DL": [
+                "Domestic Value Added Tax (customers)",
+                "VAT",
+                "Infants under 2,"
+            ]
+        },
+        {
+            "O5": [
+                "Inclusive and Solidarity (PAIS) Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "ZK": [
+                "Retention Income Tax",
+                "VAT",
+                "Diplomats and Govt officials, Passengers who are not residents in Argentina"
+            ]
+        },
+        {
+            "DN": [
+                "Domestic Value Added Tax (Excess baggage)",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "Q1": [
+                "Fiscal Tax AFIP RG 4815",
+                "VAT",
+                "Non-residents of Argentina, Diplomats"
+            ]
+        },
+        {
+            "QN": [
+                "Gross Tax Receipts - Domestic",
+                "VAT",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "AT": [
+        "Austria",
+        {
+            "AT": [
+                "Passenger Security Charge",
+                "Departure",
+                "Infants under 2, Direct transit pax on same flight"
+            ]
+        },
+        {
+            "QD": [
+                "Air Transport Levy",
+                "Departure",
+                "Infants under 2, Tansit/Transfer (24 hours), Medical/Humanitarian flights, Involuntary rerouting (Departure after unplanned landing)"
+            ]
+        },
+        {
+            "ZY": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Passengers traveling with government discount free tickets"
+            ]
+        }
+    ],
+    "AU": [
+        "Australia",
+        {
+            "QR": [
+                "Passenger Service Charge - Domestic",
+                "Both",
+                "Infants under 2 without a seat"
+            ]
+        },
+        {
+            "WY": [
+                "Passenger Service Charge - Intl",
+                "Both",
+                "Infants under 2, Transit pax ticketed as one through flight"
+            ]
+        },
+        {
+            "AU": [
+                "Passenger Movement Charge",
+                "Departure",
+                "Children under 12,  Diplomats, Transit pax on same calendar day, See extensive list in TTBS for addtl info"
+            ]
+        },
+        {
+            "WG": [
+                "Safety and Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "UO": [
+                "Goods and Services Tax",
+                "VAT",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "AW": [
+        "Aruba",
+        {
+            "QC": [
+                "Travel Promotion Levy",
+                "Arrival",
+                "Infants under 2, Pax with travel commencing in Bonaire, Curacao or St. Maarten, Diplomats, Transit/Transfer Passengers within 24h"
+            ]
+        },
+        {
+            "AW": [
+                "Passenger Facility & Security Charge",
+                "Departure",
+                "Infants under 2, Direct transit pax on same flight, Transit/Transfer pax within 24h"
+            ]
+        },
+        {
+            "VJ": [
+                "Special Facility Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "AZ": [
+        "Azerbaijan",
+        {
+            "AZ": [
+                "International Departure Tax",
+                "Departure",
+                "Infants under 2 without a seat, Military flights, online transfer up to 24 hrs, Interline transfer up to 24 hrs, Online transfer up to 4 hrs, Interline transfer up to 4 hrs, Transit (same plane through flight)"
+            ]
+        },
+        {
+            "JB": [
+                "Airport Development Tax",
+                "Departure",
+                "Infants under 2, No stopover (transit/transfer 24hrs), Military flights, Government officials, Transit (same plane through), Online/Interline transfer up to 24hrs, Transit (same plane through)"
+            ]
+        },
+        {
+            "JL": [
+                "Flight Security Tax",
+                "Departure",
+                "Infants under 2, Government and non-commercial flights, Military flights, No stopover (transit/transfer passengers 24hrs)"
+            ]
+        },
+        {
+            "KD": [
+                "CAA Regulation Tax",
+                "Departure",
+                "Infants under 2 without a seat, Transfer pax up to and including 24h"
+            ]
+        }
+    ],
+    "BA": [
+        "Bosnia & Herzegovina",
+        {
+            "BA": [
+                "Passenger Sercie Charge",
+                "Departure",
+                "Infants under 2, Involuntary rerouting"
+            ]
+        },
+        {
+            "HV": [
+                "Passenger Tax",
+                "Departure",
+                "Infants under 2, No stopover (transit/transfer 24 hrs), Involuntary rerouting"
+            ]
+        },
+        {
+            "K6": [
+                "Departure Fee",
+                "Departure",
+                "Transit/Same plane or through ticketed as one flight even if change of guage, infants under 2"
+            ]
+        }
+    ],
+    "BB": [
+        "Barbados",
+        {
+            "DI": [
+                "Airport Facilitation Fee",
+                "Arrival",
+                "Infants under 2, No stopover (transfer/transit), Direct transit (same flight number/aircraft)"
+            ]
+        },
+        {
+            "JG": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, No stopover (direct transit passengers)"
+            ]
+        },
+        {
+            "JH": [
+                "Security Fee",
+                "Departure",
+                "Infants under 2, No stopover (direct transit passengers)"
+            ]
+        },
+        {
+            "M3": [
+                "Airport Service Charge (International)",
+                "Departure",
+                "None"
+            ]
+        },
+        {
+            "BB": [
+                "Value Added Tax",
+                "VAT",
+                "No stopover- (transit/transfer within the same day), Involuntary rerouting"
+            ]
+        }
+    ],
+    "BD": [
+        "Bangladesh",
+        {
+            "BD": [
+                "Embarkation Fee",
+                "Departure",
+                "Infants under 2, transit/transfer to/from international itineraries w/in 24 hrs, International (No stopover-transit/transfer 24hrs)"
+            ]
+        },
+        {
+            "OW": [
+                "Excise Duty Tax",
+                "Departure",
+                "Infants under 2, Foreign Diplomats, No stopover (transit/transfer 24 hrs)"
+            ]
+        },
+        {
+            "P7": [
+                "Airport Development Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "P8": [
+                "Passenger Security Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "UT": [
+                "Travel Tax (International)",
+                "Departure",
+                "Infants under 5, Passenger transiting to Bangladesh w/in 72 hrs, Diplomats (See TTBS for extended chart)"
+            ]
+        },
+        {
+            "E5": [
+                "Value Added Tax on Embarkation Fee",
+                "VAT",
+                "Infants under 2, Outbound domestic transit w/in 24hrs to connect international, International to international transit passengers w/in 24hrs, Inbound international transit w/in 24 hrs to connect domestic"
+            ]
+        }
+    ],
+    "BE": [
+        "Belgium",
+        {
+            "BE": [
+                "Passenger Service and Security Charge",
+                "Departure",
+                "Infants under 2, Involuntary rerouting"
+            ]
+        }
+    ],
+    "BG": [
+        "Bulgaria",
+        {
+            "BG": [
+                "Passenger Charge",
+                "Departure",
+                "Infants under 2, No stopoever (transit/transfer 24 hrs)"
+            ]
+        },
+        {
+            "ZF": [
+                "Security Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "BH": [
+        "Bahrain",
+        {
+            "BH": [
+                "Passenger Service Fee",
+                "Departure",
+                "Infants under 2, No stopover (transit/transfer 24 hrs), Transit (same plane through),"
+            ]
+        },
+        {
+            "HM": [
+                "Passenger Facility Fee",
+                "Departure",
+                "None"
+            ]
+        }
+    ],
+    "BJ": [
+        "Benin",
+        {
+            "J7": [
+                "Passenger Security Charge",
+                "Both",
+                "Infants under 2, Transfers up to and including 24h"
+            ]
+        },
+        {
+            "BJ": [
+                "Security Tax",
+                "Departure",
+                "None"
+            ]
+        },
+        {
+            "BJ": [
+                "Tourist Development Tax",
+                "Departure",
+                "Infants under 2, No stopover (transfer/transit)"
+            ]
+        },
+        {
+            "BJ": [
+                "Fiscal Tax",
+                "Departure",
+                "None"
+            ]
+        },
+        {
+            "DX": [
+                "Intl Aeronautical Development Charge",
+                "Departure",
+                "Infants under 2, No stopover/Direct Transit passengers, Involuntary rerouting"
+            ]
+        },
+        {
+            "JU": [
+                "Solidarity Tax",
+                "Departure",
+                "No stopover/Direct Transit passengers"
+            ]
+        },
+        {
+            "ZD": [
+                "Passenger Service Charge - Intl",
+                "Departure",
+                "Infants under 2, Direct transits (same flight number), Involuntary rerouting"
+            ]
+        }
+    ],
+    "BM": [
+        "Bermuda",
+        {
+            "BL": [
+                "Aviation Security Fee",
+                "Departure",
+                "Infants under 2, US Military, Involuntary rerouting"
+            ]
+        },
+        {
+            "BM": [
+                "Government Passenger Tax",
+                "Departure",
+                "Infants under 2, US Military"
+            ]
+        },
+        {
+            "E6": [
+                "Air Terminal Improvement Fee",
+                "Departure",
+                "Infants under 2, US Military"
+            ]
+        },
+        {
+            "EN": [
+                "Passenger Facility Charge",
+                "Departure",
+                "Infants under 2, US Military, Involuntary rerouting"
+            ]
+        }
+    ],
+    "BN": [
+        "Brunei",
+        {
+            "BN": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Diplomats, Transfers w/in 24 hrs"
+            ]
+        }
+    ],
+    "BO": [
+        "Bolivia",
+        {
+            "A7": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Passengers in transit/transfer from one international to another international flight, Transit/transfer to domestic to domestic"
+            ]
+        },
+        {
+            "YW": [
+                "Exit Tax",
+                "Departure",
+                "Involuntary rerouting, Diplomats"
+            ]
+        },
+        {
+            "BO": [
+                "Sales Tax",
+                "VAT",
+                "Ticket paid by the government"
+            ]
+        },
+        {
+            "QM": [
+                "Service Charge",
+                "VAT",
+                "None"
+            ]
+        }
+    ],
+    "BQ": [
+        "Bonaire",
+        {
+            "E9": [
+                "Airport Improvement Fee",
+                "Departure",
+                "None"
+            ]
+        },
+        {
+            "PC": [
+                "Passenger Facility Charge",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "Q6": [
+                "Security Service Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "BR": [
+        "Brazil",
+        {
+            "BR": [
+                "Embarkation Fee",
+                "Departure",
+                "Infants under 2, Diplomats, Transfers w/in 24 hrs, Involuntary rerouting"
+            ]
+        }
+    ],
+    "BS": [
+        "Bahamas",
+        {
+            "GJ": [
+                "Airport Facility Fee",
+                "Both",
+                "Infants under 2, No stopover (transit/transfer 12hrs), Involuntary rerouting, Diplomats, Military Flights, Deportees"
+            ]
+        },
+        {
+            "R3": [
+                "Passenger Levy",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "EA": [
+                "Passenger Departure Tax",
+                "Departure",
+                "Infants under 2, Children under 6, Diplomats, Deportees, No stopover (transfer/transit passenger arriving from outside Bahamas by air, do not leave the airport and going to a destination outside the Bahamas)"
+            ]
+        },
+        {
+            "GK": [
+                "Security Fee",
+                "Departure",
+                "Infants under 2, No stopover (transit/transfer 12hrs), Involuntary rerouting"
+            ]
+        },
+        {
+            "PO": [
+                "Passenger Processing Fee",
+                "Departure",
+                "Infants under 2, Involuntary reroutings (applies to passengers whose were rerouted/diverted), Military Personnel on Duty, Diplomats"
+            ]
+        },
+        {
+            "C9": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "BT": [
+        "Bhutan",
+        {
+            "BT": [
+                "Passenger Service Charge",
+                "Departure",
+                "State guests only with documentation"
+            ]
+        }
+    ],
+    "BW": [
+        "Botswana",
+        {
+            "BW": [
+                "Departure Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "CW": [
+                "Domestic Value Added Tax",
+                "VAT",
+                "None"
+            ]
+        }
+    ],
+    "BY": [
+        "Belarus",
+        {
+            "WH": [
+                "Terminal Use Fee",
+                "Both",
+                "Infants under 2, Passengers arriving/departing on B2,U8,A9,J2,T5 flights, Involuntary rerouting"
+            ]
+        },
+        {
+            "WJ": [
+                "Security Charge",
+                "Both",
+                "Infants under 2, Passengers arriving/departing on B2,U8,A9,J2,T5 flights"
+            ]
+        },
+        {
+            "B8": [
+                "Airport Infrastructure Development Fee",
+                "Departure",
+                "Infants under 2, No stopover (transit/transfer 24 hrs)"
+            ]
+        },
+        {
+            "WI": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Passengers arriving/departing on B2,U8,A9,J2,T5 flights"
+            ]
+        },
+        {
+            "B3": [
+                "Value Added Tax (Domestic)",
+                "VAT",
+                "None"
+            ]
+        }
+    ],
+    "BZ": [
+        "Belize",
+        {
+            "BU": [
+                "Airport Development Fee",
+                "Departure",
+                "Belizean citizens (passport, resident card, naturalization certificate)"
+            ]
+        },
+        {
+            "BZ": [
+                "Belize",
+                "Departure",
+                "Infants under 2, Children 2-12, Visitors less than 24 hours, Diplomats"
+            ]
+        },
+        {
+            "FU": [
+                "Conservation Tax",
+                "Departure",
+                "Infants under 2, Children 2-12, Belizean citizens"
+            ]
+        },
+        {
+            "FV": [
+                "Passenger Service Fee",
+                "Departure",
+                "Government Ministers (see TTBS for extended chart)"
+            ]
+        },
+        {
+            "FW": [
+                "International Security Fee",
+                "Departure",
+                "None"
+            ]
+        }
+    ],
+    "CA": [
+        "Canada",
+        {
+            "CA": [
+                "Air Travellers Security Charge",
+                "Departure",
+                "Infants under 2, No stopovers"
+            ]
+        },
+        {
+            "SQ": [
+                "Airport Improvement Fee",
+                "Departure",
+                "Infants under 2, No stopovers"
+            ]
+        },
+        {
+            "RC": [
+                "Harmonized Sales Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "XG": [
+                "Goods and Services Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "XQ": [
+                "Quebec Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "CC": [
+        "Cocos  Islands",
+        {
+            "CC": [
+                "Passenger Service Charge",
+                "Departure",
+                "Children under 12"
+            ]
+        }
+    ],
+    "CD": [
+        "Congo, Democratic Republic of",
+        {
+            "CD": [
+                "Tourist Development Fund",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "K8": [
+                "Safety and Security Supervision Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "LW": [
+                "Domestic and International Pasenger Service Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "CF": [
+        "Central African Rep",
+        {
+            "CF": [
+                "Security Tax",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "HC": [
+                "Development Charge",
+                "Departure",
+                "Diplomats, United Nations Employees, Airline crew on duty"
+            ]
+        },
+        {
+            "HD": [
+                "Safety Charge",
+                "Departure",
+                "Diplomats, United Nations Employees, Airline crew on duty"
+            ]
+        },
+        {
+            "K4": [
+                "Environment Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "M1": [
+                "Stamp Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ZB": [
+                "Passenger Service Charge - Intl",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "CG": [
+        "Congo",
+        {
+            "CD": [
+                "Embarkation and Security Tax",
+                "Departure",
+                "Transit/Transfer passengers within 24h"
+            ]
+        },
+        {
+            "CG": [
+                "Security Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "HS": [
+                "Airport Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "NM": [
+                "Solidarity Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "RR": [
+                "Airport Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "RZ": [
+                "Stamp Tax",
+                "Departure",
+                "Diplomatic passpost holder"
+            ]
+        },
+        {
+            "ZC": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Wholly Domestic Tickets"
+            ]
+        },
+        {
+            "CG": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "CH": [
+        "Switzerland",
+        {
+            "CH": [
+                "Airport Passenger Security and Noise Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "UU": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2,"
+            ]
+        },
+        {
+            "LN": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "CI": [
+        "Cote d'Ivoire",
+        {
+            "CI": [
+                "Security Tax",
+                "Departure",
+                "Transit/transfer passengers within 24h"
+            ]
+        },
+        {
+            "CI": [
+                "Tourism Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "FQ": [
+                "Abidjan Municipal Tax",
+                "Departure",
+                "Infants under 2, Airline crew on Duty"
+            ]
+        },
+        {
+            "OJ": [
+                "Airport Security Fee",
+                "Departure",
+                "Infants under 2, Airline crew on Duty"
+            ]
+        },
+        {
+            "RQ": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on Duty"
+            ]
+        },
+        {
+            "TI": [
+                "Fiscal Stamp Tax",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "CK": [
+        "Cook Islands",
+        {
+            "QE": [
+                "Departure Tax",
+                "Departure",
+                "Infants under 2, Children under 13, Transit/transfer passengers within 24h"
+            ]
+        }
+    ],
+    "CL": [
+        "Chile",
+        {
+            "CL": [
+                "Domestic Airport Facility Charge",
+                "Departure",
+                "Infants under 2, Departure from ESR ( El Salvadoe) and YAI (Chillan)"
+            ]
+        },
+        {
+            "ZQ": [
+                "International Airport Facility Charge",
+                "Departure",
+                "Infants under 2, Diplomats, Airline crew on duty"
+            ]
+        },
+        {
+            "LX": [
+                "Domestic Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "CM": [
+        "Cameroon",
+        {
+            "D7": [
+                "Fiscal Stamp",
+                "Departure",
+                "Airline crew on duty, Direct transit passengers"
+            ]
+        },
+        {
+            "VX": [
+                "Safety Tax",
+                "Departure",
+                "Infants under 2, Transfers within 24 hours"
+            ]
+        },
+        {
+            "VY": [
+                "Development Tax - International",
+                "Departure",
+                "Infants under 2, Airline crew on duty, Transfers within 24 Hours"
+            ]
+        },
+        {
+            "VZ": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Transfers within 24 hours"
+            ]
+        },
+        {
+            "CM": [
+                "Tax on Value",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "CN": [
+        "China",
+        {
+            "CN": [
+                "Airport Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "CN": [
+                "Domestic Airport Fee",
+                "Departure",
+                "Infants under 2, Children 2-12"
+            ]
+        },
+        {
+            "CN": [
+                "International Airport Fee",
+                "Departure",
+                "Infants under 2, Children 2-12, Diplomats"
+            ]
+        }
+    ],
+    "CO": [
+        "Colombia",
+        {
+            "JS": [
+                "Tourism Tax",
+                "Arrival",
+                "Airline crew on duty, diplomats"
+            ]
+        },
+        {
+            "CO": [
+                "Domestic Airport Tax",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "CO": [
+                "International Airport Tax",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "DG": [
+                "Residential Exit Tax",
+                "Departure",
+                "Airline crew on duty, Children under 5, Foreign non reisdents"
+            ]
+        },
+        {
+            "L6": [
+                "Guajira Border Development Tax- International",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "YS": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "CR": [
+        "Costa Rica",
+        {
+            "IK": [
+                "Security Fee - International",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "P5": [
+                "Supplemental Security Fee",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "A1": [
+                "Baggage Inspection Fee",
+                "Departure",
+                "Airline crew on duty, Connecting from international to international flights within 24 hours"
+            ]
+        },
+        {
+            "B1": [
+                "Boarding Tax",
+                "Departure",
+                "Airline crew on duty, Connecting from international to international flights within 24 hours"
+            ]
+        },
+        {
+            "FS": [
+                "Common Area User Charge",
+                "Departure",
+                "Transit/transfer passengers within 12h and not leaving the boarding area"
+            ]
+        },
+        {
+            "NW": [
+                "Tourism Arrival Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "CR": [
+                "Transportation Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "N8": [
+                "International Sales Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "OU": [
+                "Transportation Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "CU": [
+        "Cuba",
+        {
+            "H3": [
+                "Health Insurance Charge",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "Q5": [
+                "Sanitary Tax",
+                "Arrival",
+                "Airline Crew on Duty Staying in Cuba less than 24 hours"
+            ]
+        },
+        {
+            "CU": [
+                "Passenger Services Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "CV": [
+        "Cape Verde Islands",
+        {
+            "CV": [
+                "Airport Embarkation Tax",
+                "Departure",
+                "Infants under 2, No Stopovers"
+            ]
+        },
+        {
+            "IU": [
+                "Airport Security Tax",
+                "Departure",
+                "Infants under 2, Government Officials"
+            ]
+        }
+    ],
+    "CW": [
+        "Curacao",
+        {
+            "AN": [
+                "Airport Facility Charge",
+                "Departure",
+                "Diplomatic Passport holders, Infants under 2"
+            ]
+        }
+    ],
+    "CX": [
+        "Christmas Island",
+        {
+            "CX": [
+                "Domestic (Australian) Passenger Service Charge",
+                "Both",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "CX": [
+                "International Passenger Service Charge",
+                "Both",
+                "Infants under 2, Children 2 to 12"
+            ]
+        }
+    ],
+    "CY": [
+        "Cyprus",
+        {
+            "JX": [
+                "Passenger Service Charge",
+                "Both",
+                "Infants under 2"
+            ]
+        },
+        {
+            "CY": [
+                "Airport Service Charge",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "JW": [
+                "International Passenger Terminal Facilities Charge",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        }
+    ],
+    "CZ": [
+        "Czech Republic",
+        {
+            "CZ": [
+                "Embarkation Tax",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "XH": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "DE": [
+        "Germany",
+        {
+            "DE": [
+                "Airport Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "OY": [
+                "Air Transport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "RA": [
+                "Passenger Service Charge (International)",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "RD": [
+                "Passenger Service Charge (Domestic)",
+                "VAT",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "DJ": [
+        "Djibouti",
+        {
+            "DJ": [
+                "Departure Tax",
+                "Departure",
+                "Infants under 2, Air crew"
+            ]
+        }
+    ],
+    "DK": [
+        "Denmark",
+        {
+            "ZO": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "DM": [
+        "Dominica",
+        {
+            "J4": [
+                "Passenger Facilitation Charge",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "J3": [
+                "Departure Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "J5": [
+                "Port Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "J6": [
+                "Environmental Levy",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "DM": [
+                "Transportation Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "DO": [
+        "Dominican Republic",
+        {
+            "L8": [
+                "Tourism Tax",
+                "Arrival",
+                "Travel commencing in the Domincan Republic, Issuance of ticket in the Dominican Republic, Transit/Transfer Passengers"
+            ]
+        },
+        {
+            "TY": [
+                "Aerodom Fee (International)",
+                "Both",
+                "Infants under 2 years, Military flights, Direct transits - same flight number"
+            ]
+        },
+        {
+            "UX": [
+                "Airport Authority Fee",
+                "Both",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "VB": [
+                "Airport Infrastructure Fee",
+                "Both",
+                "Infants under 2"
+            ]
+        },
+        {
+            "AA": [
+                "International Airport Departure Tax",
+                "Departure",
+                "Infants under 2, Diplomats from the Dominican Republic"
+            ]
+        },
+        {
+            "DO": [
+                "Transportation Tax",
+                "VAT",
+                "Foreign Diplomats"
+            ]
+        }
+    ],
+    "DZ": [
+        "Algeria",
+        {
+            "DZ": [
+                "Airport Tax - Domestic",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "DZ": [
+                "International Transportation Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "DZ": [
+                "Fiscal Stamp Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "XE": [
+                "Airport Tax (international)",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "YB": [
+                "Value Added Tax",
+                "VAT",
+                "EMD's for tax payments, deposits, etc"
+            ]
+        }
+    ],
+    "EC": [
+        "Ecuador",
+        {
+            "E2": [
+                "Infrastructure Tax",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "D6": [
+                "Ecological Maintenance Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ED": [
+                "International Tourism Tax",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "OR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "QB": [
+                "Airport Tax",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "QI": [
+                "Airport\u00a0Auxilliary Facilities Tax",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "WT": [
+                "Security Fee",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "EC": [
+                "Government Transportation Tax",
+                "VAT",
+                "Diplomats"
+            ]
+        }
+    ],
+    "EE": [
+        "Estonia",
+        {
+            "EE": [
+                "Domestic and International Passenger Fee",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "KL": [
+                "Value Added Tax",
+                "VAT",
+                "Airline crew on duty"
+            ]
+        }
+    ],
+    "EG": [
+        "Egypt",
+        {
+            "F7": [
+                "Quarantine Fees",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "DR": [
+                "Airport Facility Charge (RMF)",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "EG": [
+                "Solidarity Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "EQ": [
+                "Service Charge at Cairo Airport",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "JK": [
+                "Departure Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "O2": [
+                "Departure Service Fee",
+                "Departure",
+                "No exemptions"
+            ]
+        },
+        {
+            "O9": [
+                "Cute Departure Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "Q7": [
+                "Development Stamp Duty Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "QH": [
+                "Embarkation Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "RH": [
+                "Service Charge - Domestic",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "XL": [
+                "Stamp Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "XK": [
+                "Development Fee",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "ER": [
+        "Eritrea",
+        {
+            "XN": [
+                "Embarkation Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ER": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "ES": [
+        "Spain",
+        {
+            "JD": [
+                "Departure Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "OG": [
+                "Aviation Safety and Security Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "QV": [
+                "Security Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ES": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "FI": [
+        "Finland",
+        {
+            "DQ": [
+                "Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "FI": [
+                "International Passenger Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "QU": [
+                "Domestic Passenger Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "WL": [
+                "International Transit Passenger Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "XU": [
+                "Air Transport Supervision Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ZX": [
+                "Transit Passenger Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "YF": [
+                "Valid Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "FJ": [
+        "Fiji",
+        {
+            "EY": [
+                "Airport Departure Tax",
+                "Departure",
+                "Diplomats, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "EZ": [
+                "Airport Security Charge",
+                "Departure",
+                "Children under 12, Air crew, heads of States"
+            ]
+        },
+        {
+            "FA": [
+                "Airport Development Charge",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "FJ": [
+                "Domestic Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "FO": [
+        "Faroe Islands",
+        {
+            "FO": [
+                "Departure Tax",
+                "Departure",
+                "Children under 12"
+            ]
+        },
+        {
+            "ZO": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "FR": [
+        "France",
+        {
+            "FR": [
+                "Fiscal Tax",
+                "Both",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "FR": [
+                "Civil Aviation Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "FR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "IZ": [
+                "Air Passenger Solidarity Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "O4": [
+                "Solidarity Tax Surplus",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "QW": [
+                "X - Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Government Officials"
+            ]
+        },
+        {
+            "QX": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "UI": [
+                "VAT Adjustment Tax - Domestic",
+                "VAT",
+                "Government Officials"
+            ]
+        }
+    ],
+    "GA": [
+        "Gabon",
+        {
+            "R4": [
+                "Airport Passenger Fee",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "GA": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "QF": [
+                "Solidarity Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "SX": [
+                "International Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "WZ": [
+                "International and Domestic Safety Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "RT": [
+                "Departure Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "RV": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "GB": [
+        "United Kingdom",
+        {
+            "GB": [
+                "Air Passengers Duty",
+                "Departure",
+                "Passengers up to and including the age of 15 years are exempt from the Lower Class Reduced Rate APD, Deportees"
+            ]
+        },
+        {
+            "R1": [
+                "Exceptional Regulatory Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "UB": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "YO": [
+                "Isle of Man Passenger Duty",
+                "Departure",
+                "Infants under 2, Deportees"
+            ]
+        }
+    ],
+    "GD": [
+        "Grenada",
+        {
+            "VW": [
+                "International Facilitation Charge",
+                "Arrival",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "YV": [
+                "Airport Capital Improvement Surcharge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "FF": [
+                "Baggage Screening Charge",
+                "Departure",
+                "Airline crew on duty, Transit passengers (same flight number)"
+            ]
+        },
+        {
+            "JF": [
+                "Concourse Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "OS": [
+                "Airport Service and Security Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "GE": [
+        "Georgia",
+        {
+            "GE": [
+                "Passenger Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "JA": [
+                "Airport Passenger Security Fee",
+                "Departure",
+                "Head of states, Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "GF": [
+        "French Guiana",
+        {
+            "FR": [
+                "French Civil Aviation Tax",
+                "Departure",
+                "Infants under 2, airline crew on duty"
+            ]
+        },
+        {
+            "FR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "GF": [
+                "Embarkation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "IZ": [
+                "Air Passenger Solidarity Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "O4": [
+                "Solidarity Tax Surplus",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "QY": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, airline crew on duty"
+            ]
+        }
+    ],
+    "GH": [
+        "Ghana",
+        {
+            "G5": [
+                "Aviation Safety Charge- International",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "GH": [
+                "Passenger Service Charge (international)",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "GI": [
+        "Gibraltar",
+        {
+            "GI": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "GL": [
+        "Greenland",
+        {
+            "SF": [
+                "Security Fee",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "L4": [
+                "Safety Fee- International",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ZO": [
+                "Passenger Service Charge (Domestic)",
+                "Departure",
+                "Infants under 2 without a seat"
+            ]
+        },
+        {
+            "ZO": [
+                "Passenger Service Charge (International)",
+                "Departure",
+                "Infants under 2 without a seat"
+            ]
+        }
+    ],
+    "GM": [
+        "Gambia",
+        {
+            "KB": [
+                "Tourism Development Levy",
+                "Arrival",
+                "Children under 12"
+            ]
+        },
+        {
+            "GG": [
+                "Airport Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "PU": [
+                "Airport Development Levy",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "WB": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "GM": [
+                "Air Transport Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "GN": [
+        "Guinea",
+        {
+            "EF": [
+                "Security Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "GN": [
+                "Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "GP": [
+        "Guadeloupe",
+        {
+            "A8": [
+                "Embarkation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "FR": [
+                "French Civil Aviation Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "FR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "GP": [
+                "Departure Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "GP": [
+                "Embarkation Tax",
+                "Departure",
+                "Travel to Carribbean Countries, Infants under 2"
+            ]
+        },
+        {
+            "IZ": [
+                "Air Passenger Solidarity Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "QZ": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "GQ": [
+        "Equatorial Guinea",
+        {
+            "LL": [
+                "Security Tax",
+                "Both",
+                "Infants under 2"
+            ]
+        },
+        {
+            "GQ": [
+                "Departure Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "KF": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "GR": [
+        "Greece",
+        {
+            "F8": [
+                "HCAA Passenger Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "GR": [
+                "Airport Development Charge",
+                "Departure",
+                "Children under 5"
+            ]
+        },
+        {
+            "WP": [
+                "Passenger Terminal Facilities Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "WQ": [
+                "Passenger Security Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "GT": [
+        "Guatemala",
+        {
+            "QQ": [
+                "Airport Security Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "XC": [
+                "Departure Tax",
+                "Departure",
+                "Diplomatic Passport holders, Airline crew on duty"
+            ]
+        },
+        {
+            "XB": [
+                "Value Added Tax",
+                "VAT",
+                "Government Entities"
+            ]
+        }
+    ],
+    "GU": [
+        "Guam",
+        {
+            "GU": [
+                "Customs, Agriculture and Quarantine Inspection Services Charge",
+                "Departure",
+                "No Stopover"
+            ]
+        },
+        {
+            "XF": [
+                "Passenger Facility Charge (PFC)",
+                "Departure",
+                "Non Revenue passengers, Infants under 2"
+            ]
+        }
+    ],
+    "GW": [
+        "Guinea-Bissau",
+        {
+            "GW": [
+                "Aeronautical Infra-structure Tax",
+                "Departure",
+                "Diplomats, Ticket paid by the Government"
+            ]
+        },
+        {
+            "OK": [
+                "Embarkation Tax",
+                "Departure",
+                "Diplomatic Passport holders, Infants under 2"
+            ]
+        },
+        {
+            "OL": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ON": [
+                "Aeronautic Development Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "M1": [
+                "Stamp Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "O1": [
+                "Stamp Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "GY": [
+        "Guyana",
+        {
+            "WE": [
+                "Passenger Facility Charge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "A3": [
+                "Passenger Facilitation Charge - Domestic",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "I1": [
+                "Security Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "I4": [
+                "Travel Tax - International",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "GY": [
+                "Government Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "HK": [
+        "Hong Kong",
+        {
+            "G3": [
+                "Airport Construction Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "HK": [
+                "Air Passenger Departure Tax",
+                "Departure",
+                "Transfers on the same day, Infants under 12"
+            ]
+        },
+        {
+            "I5": [
+                "Airport Passenger Facility Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "HR": [
+        "Croatia",
+        {
+            "HR": [
+                "Passenger Service and Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "MI": [
+                "Croatian Civil Aviation Authority Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ZS": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "HT": [
+        "Haiti",
+        {
+            "HI": [
+                "Immigration Processing Fee",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "DH": [
+                "Passenger Facility Charge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "AB": [
+                "Airport Departure Tax",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "FP": [
+                "Security Control Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "KO": [
+                "Territorial Development Tax",
+                "Departure",
+                "Diplomatic Passport holders"
+            ]
+        },
+        {
+            "HT": [
+                "Transportation Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "HU": [
+        "Hungary",
+        {
+            "HU": [
+                "Airport Departure Tax",
+                "Departure",
+                "Infants under 2, No Stopover"
+            ]
+        },
+        {
+            "FE": [
+                "Security\u00a0Charge",
+                "Departure",
+                "Infants under 2, No Stopover"
+            ]
+        }
+    ],
+    "ID": [
+        "Indonesia",
+        {
+            "D5": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ID": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "IE": [
+        "Ireland",
+        {
+            "BC": [
+                "Airport Security Charge",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "UP": [
+                "Passenger Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "UQ": [
+                "Inspection/Pre-Clearance Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "IL": [
+        "Israel",
+        {
+            "AP": [
+                "Domestic and International Security and Insurance Surcharge",
+                "Departure",
+                "Transfer within 24hours"
+            ]
+        },
+        {
+            "IL": [
+                "Departure Passenger Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "IN": [
+        "India",
+        {
+            "IN": [
+                "User Development Fee",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "P2": [
+                "Aviation Security Fee",
+                "Departure",
+                "Diplomatic Passport holders, Infants under 2 and Passengers transferring within 24 hours"
+            ]
+        },
+        {
+            "WO": [
+                "Passenger Service Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "YM": [
+                "Development Fee",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "K3": [
+                "Goods and Service Tax",
+                "VAT",
+                "Airline crew on duty, Infants under 2, Diplomatic passport holders"
+            ]
+        }
+    ],
+    "IQ": [
+        "Iraq",
+        {
+            "IQ": [
+                "Departure Tax",
+                "Departure",
+                "Infants under 2, Government Officials, Diplomats"
+            ]
+        }
+    ],
+    "IR": [
+        "Iran",
+        {
+            "I6": [
+                "Passenger Safety Oversight Services Fees- Domestic",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "IR": [
+                "Airport Tax",
+                "Departure",
+                "Diplomats residing in Iran"
+            ]
+        },
+        {
+            "LP": [
+                "Airport Service Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "KU": [
+                "Municipality Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "IS": [
+        "Iceland",
+        {
+            "H6": [
+                "Arrival Security Screening",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "IS": [
+                "Airport Service Charge",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "ZU": [
+                "Passenger Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "IT": [
+        "Italy",
+        {
+            "EX": [
+                "Security Bag Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "HB": [
+                "Council City Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "IT": [
+                "Embarkation Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MJ": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "VT": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "FN": [
+                "Value Added Tax - Domestic",
+                "VAT",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "JM": [
+        "Jamaica",
+        {
+            "HG": [
+                "Tourism Enhancement Fee",
+                "Arrival",
+                "Infants under 2, Diplomats, Military Retirees and Veterans"
+            ]
+        },
+        {
+            "QK": [
+                "Airline Passenger Levy",
+                "Arrival",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "UC": [
+                "Passenger Aviation Service Charge",
+                "Both",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "EK": [
+                "Passenger Service & Security Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "EL": [
+                "Airport Improvement Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "JM": [
+                "Stamp Tax",
+                "Departure",
+                "Infants under 2, Diplomats, Tourists staying less then six months"
+            ]
+        },
+        {
+            "JT": [
+                "Passenger Facility Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "WD": [
+                "Travel Tax - International",
+                "Departure",
+                "Infants under2, Diplomats"
+            ]
+        }
+    ],
+    "JO": [
+        "Jordan",
+        {
+            "O7": [
+                "Airport Security Charge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "D9": [
+                "CUTE User Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "HQ": [
+                "Embarkation Tax",
+                "Departure",
+                "Jordanian Royal Family, Airline crew on duty"
+            ]
+        },
+        {
+            "KJ": [
+                "Civil Aviation Fee - Transfer Passengers",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "NH": [
+                "Passenger Terminal Usage Fee",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "JP": [
+        "Japan",
+        {
+            "HJ": [
+                "Domestic Passenger Facility Charge",
+                "Both",
+                "Children under 12, Airline crew on cuty,"
+            ]
+        },
+        {
+            "OI": [
+                "Passenger Security Service Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "SW": [
+                "Passenger Service Facilities Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "TK": [
+                "International Tourist Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "JP": [
+                "Consumption Tax",
+                "VAT",
+                "Governement Officials, Foreign Diplomats, Infants under 3"
+            ]
+        }
+    ],
+    "KE": [
+        "Kenya",
+        {
+            "KE": [
+                "Passenger Airport Service Charge - Domestic",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "TU": [
+                "Passenger Airport Service Charge - Intl",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "KG": [
+        "Kyrgyzstan",
+        {
+            "HL": [
+                "Airport Development Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "KH": [
+        "Cambodia",
+        {
+            "KX": [
+                "Domestic Passnger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "KX": [
+                "International Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "KH": [
+                "Domestic value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "KI": [
+        "Kiribati",
+        {
+            "C1": [
+                "Safety and Security Oversight Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "KI": [
+                "Airport Service Charge",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        }
+    ],
+    "KM": [
+        "Comoros",
+        {
+            "BV": [
+                "Safety and Security Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "FM": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "KM": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "YU": [
+                "Civil Aviation Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "GS": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "KN": [
+        "St. Kitts",
+        {
+            "LE": [
+                "Passenger Facility Charge",
+                "Arrival",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "AQ": [
+                "Airport Charge",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "FB": [
+                "International Airport Enhancement Facilitation Fee",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "KV": [
+                "Environmental Levy",
+                "Departure",
+                "Diplomats, Children under 12"
+            ]
+        },
+        {
+            "KN": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "KP": [
+        "Korea",
+        {
+            "KA": [
+                "Flight Security Fee (International)",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "KP": [
+                "Passenger Service Charge",
+                "Departure",
+                "Children under 12, Diplomats"
+            ]
+        }
+    ],
+    "KR": [
+        "Korea",
+        {
+            "BP": [
+                "International PSC, Departure Tax and Contribuition to International Poverty Eradication",
+                "Departure",
+                "Infants under 2, Airline crew onduty, Korean Diplomatic Passport"
+            ]
+        },
+        {
+            "DA": [
+                "Domestic Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "KW": [
+        "Kuwait",
+        {
+            "GZ": [
+                "Airport Service Charge - International",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "KW": [
+                "Airport Departure Tax - International",
+                "Departure",
+                "Children under 12 Diplomatic passport holder"
+            ]
+        },
+        {
+            "L2": [
+                "Transfer Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "YX": [
+                "Passenger Service Charge",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        }
+    ],
+    "KY": [
+        "Cayman Islands",
+        {
+            "GX": [
+                "Terminal Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "KY": [
+                "Departure Tax - International",
+                "Departure",
+                "Infants under 2, Diplomats, No stopovers"
+            ]
+        },
+        {
+            "LZ": [
+                "Passenger Facility Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "SU": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "KZ": [
+        "Kazakhstan",
+        {
+            "UJ": [
+                "Passenger Service Charge",
+                "Departure",
+                "Children under 5"
+            ]
+        }
+    ],
+    "LA": [
+        "Laos",
+        {
+            "LA": [
+                "Airport Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "LB": [
+        "Lebanon",
+        {
+            "H4": [
+                "API/PNR Security Charge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "LB": [
+                "Beirut Airport Embarkation Tax (International)",
+                "Departure",
+                "Diplomats, Diplomatic passport holders"
+            ]
+        },
+        {
+            "YL": [
+                "Ticket Issuance Fee",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "LC": [
+        "St. Lucia",
+        {
+            "EW": [
+                "Passenger Facility Fee",
+                "Arrival",
+                "Children under 12, Diplomats"
+            ]
+        },
+        {
+            "II": [
+                "Facilitation Charge",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "IJ": [
+                "Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "J1": [
+                "Airport Development Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "KS": [
+                "Airport Service Charge",
+                "Departure",
+                "Children under 12, Arrival and Departure within 24hours,"
+            ]
+        },
+        {
+            "LC": [
+                "Travel Tax",
+                "VAT",
+                "Diplomats, Children under 18, Government Officials"
+            ]
+        }
+    ],
+    "LK": [
+        "Sri Lanka",
+        {
+            "EJ": [
+                "Overseas Sales Surcharge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "LK": [
+                "Embarkation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "TF": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "LR": [
+        "Liberia",
+        {
+            "EM": [
+                "Airport Service Fee",
+                "Departure",
+                "Children under 12"
+            ]
+        },
+        {
+            "HX": [
+                "Safety and Security Fee",
+                "Departure",
+                "Children under 12"
+            ]
+        },
+        {
+            "LR": [
+                "Ticket Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "LS": [
+        "Lesotho",
+        {
+            "VM": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "LT": [
+        "Lithuania",
+        {
+            "D3": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "LT": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Government Flights"
+            ]
+        }
+    ],
+    "LU": [
+        "Luxembourg",
+        {
+            "LU": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "LV": [
+        "Latvia",
+        {
+            "LV": [
+                "Domestic and International Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "OH": [
+                "Transit Passenger Service Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "XM": [
+                "Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "IY": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "MA": [
+        "Morocco",
+        {
+            "A9": [
+                "Tourism Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MA": [
+                "Airport Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "MA": [
+                "Ticket Stamp Tax",
+                "Departure",
+                "MCO's"
+            ]
+        },
+        {
+            "MA": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "MD": [
+        "Moldova",
+        {
+            "JQ": [
+                "Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "MD": [
+                "Airport Development Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "WW": [
+                "International Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "ME": [
+        "Montenegro",
+        {
+            "B7": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ME": [
+                "Departure Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "MG": [
+        "Madagascar",
+        {
+            "A5": [
+                "Aviation Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "G9": [
+                "Airport Infrastructure Development Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "JV": [
+                "Solidarity Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MG": [
+                "Passenger Tax",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "MK": [
+        "Macedonia",
+        {
+            "MK": [
+                "Airport Service Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "VS": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "ML": [
+        "Mali",
+        {
+            "WK": [
+                "Passenger Security Charge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "EB": [
+                "Passenger and Safety Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "IC": [
+                "Development Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "ML": [
+                "Ticket Tax",
+                "Departure",
+                "MCO's, Excess baggage"
+            ]
+        },
+        {
+            "NB": [
+                "Solidarity Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "RX": [
+                "Tourism Tax",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "MM": [
+        "Myanmar",
+        {
+            "C7": [
+                "Advance Passenger Information User Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "MM": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "MN": [
+        "Mongolia",
+        {
+            "MN": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "AV": [
+                "Value Added Tax",
+                "VAT",
+                "Diplomats"
+            ]
+        }
+    ],
+    "MO": [
+        "Macao",
+        {
+            "MO": [
+                "Airport Security Tax - International",
+                "Departure",
+                "Infants under 2, Airline crew onduty, Diplomats"
+            ]
+        },
+        {
+            "WN": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty, Diplomats"
+            ]
+        }
+    ],
+    "MQ": [
+        "Martinique",
+        {
+            "FR": [
+                "French Civil Aviation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "FR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "IZ": [
+                "Air Passenger Solidarity Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MQ": [
+                "Embarkation Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "RB": [
+                "Passenger Service Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "MR": [
+        "Mauritania",
+        {
+            "HO": [
+                "Air Transportation Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "MR": [
+                "Embarkation Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MR": [
+                "Fiscal Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MR": [
+                "Domestic SAM\u00a0Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MR": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ZI": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "MT": [
+        "Malta",
+        {
+            "DB": [
+                "Airport Security Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "UF": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "AC": [
+                "Value Added Tax - Domestic",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "MU": [
+        "Mauritius",
+        {
+            "HH": [
+                "Passenger Fee",
+                "Departure",
+                "Infants under 2, Government Officials, Diplomats"
+            ]
+        },
+        {
+            "JE": [
+                "Passenger Solidarity Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MU": [
+                "Passenger Service Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "OV": [
+                "Terminal Expansion",
+                "Departure",
+                "Infants under 2, Government Officials"
+            ]
+        }
+    ],
+    "MV": [
+        "Maldives",
+        {
+            "BQ": [
+                "Airport Fee",
+                "Departure",
+                "Infants under 2, diplomats"
+            ]
+        },
+        {
+            "H9": [
+                "Airport Development Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "YY": [
+                "Goods and Services Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "MW": [
+        "Malawi",
+        {
+            "LD": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "YZ": [
+                "Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MW": [
+                "Surtax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "MX": [
+        "Mexico",
+        {
+            "UK": [
+                "Tourism Tax",
+                "Arrival",
+                "Infants under 2, Mexican Citizens/Mexican Residents with residency card document"
+            ]
+        },
+        {
+            "MX": [
+                "Excess Baggage Ticket Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "XD": [
+                "Airport Departure Tax - International",
+                "Departure",
+                "Infants under 2, Diplomats, Transit/transfer passenger (remaining in Mexico less than 24 hours)"
+            ]
+        },
+        {
+            "XV": [
+                "Airport Departure Tax - Domestic",
+                "Departure",
+                "Deportees, Infants under 2"
+            ]
+        },
+        {
+            "MX": [
+                "Transportation Tax - IVA Domestic",
+                "VAT",
+                "Diplomats"
+            ]
+        },
+        {
+            "XO": [
+                "Transportation Tax - IVA International",
+                "VAT",
+                "Diplomats"
+            ]
+        }
+    ],
+    "MY": [
+        "Malaysia",
+        {
+            "G1": [
+                "Departure Levy",
+                "Departure",
+                "Infants under 2, Airline crew on duty, Transfers within 12 Hours"
+            ]
+        },
+        {
+            "H8": [
+                "Regulatory Charge",
+                "departure",
+                "Infants under 2, Heads of State, Diplomats, Transfers up to 12 hours"
+            ]
+        },
+        {
+            "MY": [
+                "Passenger Service and Security Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "D8": [
+                "Goods and Services Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "MZ": [
+        "Mozambique",
+        {
+            "LF": [
+                "Domestic and International Passenger Tax",
+                "Departure",
+                "Infants under 2, Prime Minister"
+            ]
+        },
+        {
+            "OX": [
+                "Airport Security Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "MZ": [
+                "Value Added Tax - Domestic",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "NA": [
+        "Namibia",
+        {
+            "H1": [
+                "Airport Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "NA": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "NC": [
+        "New Caledonia",
+        {
+            "FR": [
+                "Airport Tax",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "NC": [
+                "Passenger Service Charge",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        }
+    ],
+    "NE": [
+        "Niger",
+        {
+            "JR": [
+                "Solidarity Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "JZ": [
+                "Stamp Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "N6": [
+                "Infrastructure Development Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "NE": [
+                "Fiscal Stamp Tax - International",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "NE": [
+                "Transportation Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "NE": [
+                "Security Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "OQ": [
+                "Airport Departure Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "VP": [
+                "Tourist Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ZH": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "NF": [
+        "Norfolk Island",
+        {
+            "NF": [
+                "Passenger Facility Charge",
+                "Both",
+                "Infants under 3 without a seat, Airline crew on duty"
+            ]
+        },
+        {
+            "AU": [
+                "Passenger Movement Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "NG": [
+        "Nigeria",
+        {
+            "QT": [
+                "Airport Service Charge",
+                "Departure",
+                "Governement Officials, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "TE": [
+                "Security Charge",
+                "Departure",
+                "Diplomats, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "JY": [
+                "Value Added Tax",
+                "VAT",
+                "Diplomats"
+            ]
+        },
+        {
+            "NG": [
+                "Sales Tax",
+                "VAT",
+                "Diplomats"
+            ]
+        }
+    ],
+    "NI": [
+        "Nicaragua",
+        {
+            "PI": [
+                "Tourism Arrival Tax for sales made outside Nicaragua",
+                "Arrival",
+                ""
+            ]
+        },
+        {
+            "FC": [
+                "Terminal Fee",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "FD": [
+                "Tourism Fee",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "PX": [
+                "Airport Security Charge",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "NI": [
+                "Sales (Hacienda) Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "NL": [
+        "Netherlands",
+        {
+            "CJ": [
+                "Security Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "QL": [
+                "Airport Service Charge - Groningen",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "RN": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "NO": [
+        "Norway",
+        {
+            "G2": [
+                "Air Passenger Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ZN": [
+                "Passenger Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "NV": [
+                "Domestic Value added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "NP": [
+        "Nepal",
+        {
+            "B6": [
+                "Airport Development Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "NP": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "NQ": [
+                "Tourism Service Fee",
+                "Departure",
+                "Diplomats, Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "NZ": [
+        "New Zealand",
+        {
+            "KK": [
+                "Passenger Service Charge",
+                "Both",
+                "Diplomats, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "CE": [
+                "Domestic Aviation Security Screening Levy",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "F1": [
+                "Border Clearance Levy",
+                "Departure",
+                "Diplomats, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "IA": [
+                "Passenger Security Charge",
+                "Departure",
+                "Diplomats of New Zealand, Infants under 2"
+            ]
+        },
+        {
+            "WX": [
+                "Domestic Passenger Levy",
+                "Departure",
+                "Airline crew on duty, Infants under 2"
+            ]
+        },
+        {
+            "NZ": [
+                "Goods and Services Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "OM": [
+        "Oman",
+        {
+            "I2": [
+                "Security Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "I8": [
+                "CUPPS Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "OM": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "PA": [
+        "Panama",
+        {
+            "AH": [
+                "Airport Security Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "F3": [
+                "Airport Development Fee",
+                "Departure",
+                "Diplomats, Infants under 2, Air crew"
+            ]
+        },
+        {
+            "FZ": [
+                "Airport Departure Tax",
+                "Departure",
+                "Diplomats, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "PJ": [
+                "Passenger Facility Charge",
+                "Departure",
+                "Government Officials, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "PA": [
+                "Value Added Tax",
+                "VAT",
+                "Diplomats for the Republic of Panama, Government employees"
+            ]
+        }
+    ],
+    "PE": [
+        "Peru",
+        {
+            "DY": [
+                "International Tourism Arrival Tax",
+                "Arrival",
+                "Diplomats, Deportees, Airline crew on duty"
+            ]
+        },
+        {
+            "HW": [
+                "Airport Departure Tax",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "PE": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "PF": [
+        "French Polynesia",
+        {
+            "FR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "PF": [
+                "Departure Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "Q8": [
+                "Domestic Intra Islands Solidarity Tax",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "PG": [
+        "Papua New Guinea",
+        {
+            "VA": [
+                "NAQIA Passenger Clearance Fee",
+                "Arrival",
+                "Children under 12"
+            ]
+        },
+        {
+            "GC": [
+                "Passenger Facility Charge",
+                "Departure",
+                "Infants under 2, Airlince crew on duty"
+            ]
+        },
+        {
+            "I9": [
+                "Airside Service Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "NX": [
+                "Safety and Security Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "PG": [
+                "International Departure Tax",
+                "Departure",
+                "Diplomats, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "UN": [
+                "Goods and Services Tax",
+                "VAT",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "PH": [
+        "Philippines",
+        {
+            "LI": [
+                "Passenger Service Charge - Domestic and International",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "PD": [
+                "Aviation Security Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "PH": [
+                "Travel Tax",
+                "Departure",
+                "Foreign Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "PV": [
+                "Value Added Tax - Domestic",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "PK": [
+        "Pakistan",
+        {
+            "N9": [
+                "Stamp Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "PB": [
+                "Advance Tax - Domestic",
+                "Departure",
+                "Diplomats"
+            ]
+        },
+        {
+            "PK": [
+                "Excise Duty",
+                "Departure",
+                "Diplomats"
+            ]
+        },
+        {
+            "RG": [
+                "Federal Excise Duty",
+                "Departure",
+                "Foreign Diplomats, Diplomats"
+            ]
+        },
+        {
+            "SP": [
+                "Embarkation Fee",
+                "Departure",
+                "Infants under 2, Foreign Diplomats, Diplomats"
+            ]
+        },
+        {
+            "XZ": [
+                "Security Charge - Domestic",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "XZ": [
+                "Security Charge - International",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "YD": [
+                "Infrastructure Development Charge",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "YI": [
+                "Government Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "PB": [
+                "Advance Tax - International",
+                "VAT",
+                "Diplomats"
+            ]
+        }
+    ],
+    "PL": [
+        "Poland",
+        {
+            "ND": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "XW": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2 without a seat"
+            ]
+        },
+        {
+            "EI": [
+                "Domestic VAT Adjustment Tax",
+                "VAT",
+                "Infants under 2 without a seat"
+            ]
+        },
+        {
+            "XX": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "PT": [
+        "Portugal",
+        {
+            "J9": [
+                "Carbon Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "PT": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "YP": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "WA": [
+                "IVA Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "QA": [
+        "Qatar (QA",
+        {
+            "PZ": [
+                "Passenger Service Charge",
+                "Both",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "G4": [
+                "Passenger Facility Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "QA": [
+                "Airport Fee",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "RE": [
+        "Reunion",
+        {
+            "FR": [
+                "French Civil Aviation Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "FR": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "IZ": [
+                "Air Passenger Solidarity Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "RE": [
+                "International Embarkation Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "RJ": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "RS": [
+        "Serbia",
+        {
+            "C3": [
+                "Civil Aviation Authority Safety Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "LG": [
+                "Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "RF": [
+                "CAD Passenger Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "RS": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under2, Airline crew on duty"
+            ]
+        },
+        {
+            "WM": [
+                "Passenger Services and Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "RU": [
+        "Russia",
+        {
+            "RI": [
+                "International Terminal Ue Charge",
+                "Both",
+                "Infants under 2"
+            ]
+        },
+        {
+            "RU": [
+                "Sales Tax",
+                "Departure",
+                "Infants under 2 without a seat"
+            ]
+        },
+        {
+            "UH": [
+                "Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "RW": [
+        "Rwanda",
+        {
+            "C8": [
+                "Aviation Security Charge",
+                "Departure",
+                "Infants under 2 without a seat"
+            ]
+        },
+        {
+            "RW": [
+                "Passenger Service Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "SA": [
+        "Saudi Arabia",
+        {
+            "E3": [
+                "Security Charges",
+                "Both",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "IO": [
+                "Airport Building Charge",
+                "Both",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "K7": [
+                "Value Added Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "EV": [
+                "Passenger Safety Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "UM": [
+                "ACS Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "WC": [
+                "Air Passenger Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ZA": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ZV": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SB": [
+        "Solomon Islands",
+        {
+            "LH": [
+                "Airport Departure Tax",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "SB": [
+                "Government Ticket Sales Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "SC": [
+        "Seychelles",
+        {
+            "DW": [
+                "Embarkation Tax",
+                "Departure",
+                "Children under 12"
+            ]
+        },
+        {
+            "SC": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SD": [
+        "Sudan",
+        {
+            "N5": [
+                "Common User Passenger Processing System (CUPPS)",
+                "Departure",
+                "Interline transfer up to and including 6 hours"
+            ]
+        },
+        {
+            "NY": [
+                "Passenger Service Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "SD": [
+                "Stamp Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SE": [
+        "Sweden",
+        {
+            "LJ": [
+                "Aviation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "YA": [
+                "Passenger Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "XS": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SG": [
+        "Singapore",
+        {
+            "L7": [
+                "Airport Development Levy",
+                "Departure",
+                "Diplomat, Infants under 2"
+            ]
+        },
+        {
+            "OO": [
+                "Passenger Security Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "OP": [
+                "Aviation Levy",
+                "Departure",
+                "Infnats under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "SG": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "SI": [
+        "Slovenia",
+        {
+            "JJ": [
+                "Security Fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "SI": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "SK": [
+        "Slovakia",
+        {
+            "SK": [
+                "Embarkation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "XJ": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SL": [
+        "Sierra Leone",
+        {
+            "K5": [
+                "Aviation Safety Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "MC": [
+                "Aviation Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "OT": [
+                "Infrastructural Development Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "SL": [
+                "Foreign Travel Tax",
+                "Departure",
+                "Diplomaic Passport holder, Infants under 2"
+            ]
+        },
+        {
+            "VR": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "SN": [
+        "Senegal",
+        {
+            "VH": [
+                "Immigration User Fee",
+                "Both",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "DF": [
+                "Security Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "HP": [
+                "Infrastructure Development Charge - Domestic",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "HP": [
+                "Infrastructure Development Charge - International",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "KQ": [
+                "Civil Aviation Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ZE": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "SO": [
+        "Somalia",
+        {
+            "D4": [
+                "Airport Security and Service Charge",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "FT": [
+                "Airport Departure Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "NS": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SR": [
+        "Suriname",
+        {
+            "DS": [
+                "International Safety Fee",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "QS": [
+                "Passenger Facility Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "SR": [
+                "Airport Facility Charge",
+                "Departure",
+                "Infants under 2, Diplomatic passport holders"
+            ]
+        },
+        {
+            "TB": [
+                "Goods and Services Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SS": [
+        "South Sudan",
+        {
+            "A4": [
+                "General State Excise Surcharge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "B4": [
+                "Departure Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "SS": [
+                "Excise Tax",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "ST": [
+        "Sao Tome and Principe",
+        {
+            "CT": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "E1": [
+                "Aeronautical Development Tax",
+                "Departure",
+                "Infants undr 2"
+            ]
+        },
+        {
+            "H5": [
+                "Boarding Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "DP": [
+                "Goods and Services Tax",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "NJ": [
+                "Regulator Tax",
+                "VAT",
+                "Infants under 2"
+            ]
+        },
+        {
+            "ST": [
+                "Stamp Tax",
+                "VAT",
+                "tickets paid by Government"
+            ]
+        },
+        {
+            "ST": [
+                "Public Assistance Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SV": [
+        "El Salvador",
+        {
+            "IF": [
+                "Airport Departure Tax",
+                "Departure",
+                "Infants under 2, Diplomats, Airline crew on duty"
+            ]
+        },
+        {
+            "IG": [
+                "Immigration Fee",
+                "Departure",
+                "Diplomats, Airline crew on duty"
+            ]
+        },
+        {
+            "IM": [
+                "Tourism Contribution Fee",
+                "Departure",
+                "Diplomats, Airline crew on duty"
+            ]
+        },
+        {
+            "QG": [
+                "Value Added Tax for Commercial Entities",
+                "VAT",
+                "Government Officials"
+            ]
+        },
+        {
+            "SV": [
+                "Value Added Tax for Individuals",
+                "VAT",
+                "Government Officials"
+            ]
+        }
+    ],
+    "SX": [
+        "St. Maarten",
+        {
+            "FG": [
+                "Passenger Screening Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "FH": [
+                "Airport Departure Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "IW": [
+                "Airport Improvement Fee",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "SY": [
+        "Syrian Arab Republic",
+        {
+            "FY": [
+                "Airport Tax and Exit Fee",
+                "Departure",
+                "Children under 12, Diplomats, United Nations Employee"
+            ]
+        },
+        {
+            "SY": [
+                "Stamp Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "SY": [
+                "Consumption Expenditure Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "SZ": [
+        "Swaziland",
+        {
+            "C6": [
+                "Passenger Service Charge and Security Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "TC": [
+        "Turks & Caicos Islands",
+        {
+            "B2": [
+                "Extended Airline System Environment Charge",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "GO": [
+                "Security Facility Maintenance Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "OZ": [
+                "Airport Development Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "TC": [
+                "Passenger Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "TC": [
+                "Government Aerodromes Use fee",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "TC": [
+                "Aerodrome Security charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "TD": [
+        "Chad",
+        {
+            "BX": [
+                "Security Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "G6": [
+                "Airport Safety Charge- International",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "I3": [
+                "Infrastructure Development Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "IB": [
+                "Airport Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "IP": [
+                "Development Charge",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "TD": [
+                "Embarkation Tax (International)",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "TD": [
+                "Embarkation Tax (Domestic)",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ZG": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "PQ": [
+                "Environment Tax",
+                "VAT",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "TG": [
+        "Togo",
+        {
+            "J8": [
+                "Terminal Ground Transport Fee",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "SM": [
+                "Infrastructure Development Charge",
+                "Departure",
+                "Children under 12"
+            ]
+        },
+        {
+            "TG": [
+                "Embarkation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "VO": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "YG": [
+                "Travel Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "YG": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "YH": [
+                "Embarkation Tax TEBA",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ZT": [
+                "Aeronautical Development Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "TH": [
+        "Thailand",
+        {
+            "G8": [
+                "International Arrival and Departure Fees",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "E7": [
+                "Advance Passenger Processing User Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "TA": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airlince crew on duty"
+            ]
+        },
+        {
+            "TS": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Heads of state"
+            ]
+        }
+    ],
+    "TJ": [
+        "Tajikistan",
+        {
+            "NT": [
+                "Terminal Use Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "TJ": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "TM": [
+        "Turkmenistan",
+        {
+            "QP": [
+                "Passenger Safety and Airport Development Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "TM": [
+                "International and Domestic Passenger Airport Tax",
+                "Departure",
+                "Children under 5"
+            ]
+        }
+    ],
+    "TN": [
+        "Tunisia",
+        {
+            "A6": [
+                "Tourism Tax",
+                "Arrival",
+                "Children under 12"
+            ]
+        },
+        {
+            "RK": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "RL": [
+                "International Embarkation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "TN": [
+                "Fiscal Stamp Tax - Passengers",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "TO": [
+        "Tonga",
+        {
+            "FL": [
+                "Domestic Passenger Service Charge",
+                "Departure",
+                "Children under 12, Diplomats"
+            ]
+        },
+        {
+            "TO": [
+                "Security Levy and Airport Development Charge",
+                "Departure",
+                "Infants under 2, Heads of state, Diplomats accredited to Tonga"
+            ]
+        },
+        {
+            "WR": [
+                "Safety Levy - International",
+                "Departure",
+                "Infants under 2, Heads of state, Diplomats accredited to Tonga"
+            ]
+        }
+    ],
+    "TR": [
+        "Turkey",
+        {
+            "M6": [
+                "International Flights Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "TR": [
+                "Airport Service Charge - International",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "VQ": [
+                "Airport Service Charge - Domestic",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        }
+    ],
+    "TT": [
+        "Trinidad & Tobago",
+        {
+            "DD": [
+                "Concourse Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "KT": [
+                "Passenger Service Charge",
+                "Departure",
+                "Children under 5; Citizen/Resident age 60 and over"
+            ]
+        },
+        {
+            "TT": [
+                "Value Added Tax",
+                "VAT",
+                "Diplomats"
+            ]
+        }
+    ],
+    "TV": [
+        "Tuvalu",
+        {
+            "B5": [
+                "Airport Tax and Safety and Security Levy",
+                "Departure",
+                "Children under 12, Airline crew on duty,"
+            ]
+        }
+    ],
+    "TW": [
+        "Chinese Taipei",
+        {
+            "TW": [
+                "Airport Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty, Diplomats"
+            ]
+        },
+        {
+            "TW": [
+                "Airport Service Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "TZ": [
+        "Tanzania",
+        {
+            "E4": [
+                "Infrastructure Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "HY": [
+                "Aviation Safety Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "M4": [
+                "Security Fee",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "NN": [
+                "Airport Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "TZ": [
+                "Airport Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "UA": [
+        "Ukraine",
+        {
+            "UA": [
+                "Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "UD": [
+                "State Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "YK": [
+                "Airport Passenger Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "HF": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "UG": [
+        "Uganda",
+        {
+            "UG": [
+                "Security Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "UL": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "US": [
+        "United States of America",
+        {
+            "XA": [
+                "APHIS User Fee",
+                "Arrival",
+                "Diplomats (Except US Diplomats), Arrival from Puerto Rico"
+            ]
+        },
+        {
+            "XY": [
+                "Immigration User Fee",
+                "Arrival",
+                "Diplomats, Aircrew, Passengers whose transportation originates in Puerto Rico, Guam, the US Virgin Islands and the Commonwealth of the Northern\nMariana Islands (CNMI)"
+            ]
+        },
+        {
+            "YC": [
+                "Customs User Fee",
+                "Arrival",
+                "Diplomats, Arrival from Puerto Rico"
+            ]
+        },
+        {
+            "US": [
+                "Transportation Tax - International - Arrival/Departure",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "AY": [
+                "Passenger Civil Aviation Security Services Fee",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "XF": [
+                "Passenger Facility Charges",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "ZP": [
+                "Flight Segment Tax",
+                "Departure",
+                "Airline crew on duty"
+            ]
+        },
+        {
+            "US": [
+                "Transportation Tax - Domestic",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "UY": [
+        "Uruguay",
+        {
+            "UR": [
+                "Security Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "WU": [
+                "Departure Tax",
+                "Departure",
+                "Diplomats"
+            ]
+        },
+        {
+            "UY": [
+                "Ticket Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "UZ": [
+        "Uzbekistan",
+        {
+            "FX": [
+                "Security Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "UZ": [
+                "Airport Departure Tax",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        }
+    ],
+    "VC": [
+        "St. Vincent and the Grenadines",
+        {
+            "YJ": [
+                "Airport Service Charge",
+                "Departure",
+                "Children under 12, Diplomats"
+            ]
+        },
+        {
+            "VC": [
+                "Government Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "VE": [
+        "Venezuela",
+        {
+            "AJ": [
+                "Airport Exit Tax",
+                "Departure",
+                "Children under 15, Diplomats"
+            ]
+        },
+        {
+            "AK": [
+                "Airport Departure Tax",
+                "Departure",
+                "Infants under 2,Diplomats"
+            ]
+        },
+        {
+            "C2": [
+                "Biosecurity Service Fee",
+                "Departure",
+                "Infants under 2, Diplomats, Government officials"
+            ]
+        },
+        {
+            "EU": [
+                "INAC Civil Aviation services Improvement Fee",
+                "VAT",
+                ""
+            ]
+        },
+        {
+            "YN": [
+                "Luxury Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "VG": [
+        "Virgin Islands, British",
+        {
+            "VG": [
+                "Airport Development Fee",
+                "Both",
+                ""
+            ]
+        },
+        {
+            "G7": [
+                "Airport Departure Charge- Does not apply to domestic departures",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "LO": [
+                "Hold Baggage Screening Fee",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "VU": [
+        "Vanuatu",
+        {
+            "GV": [
+                "Safety and Security Levy",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "UV": [
+                "Airport Departure Tax- Domestic",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "VU": [
+                "International Departure Fee and Security Charge",
+                "Departure",
+                "Children under 12"
+            ]
+        },
+        {
+            "UW": [
+                "Value Added Tax",
+                "VAT",
+                "Government officials, Airline crew on duty"
+            ]
+        }
+    ],
+    "WS": [
+        "Samoa",
+        {
+            "E8": [
+                "Safety and Security Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "VK": [
+                "Departure Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "WS": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "YE": [
+        "Yemen",
+        {
+            "CQ": [
+                "Rehabilitation Fund and Care of Handicapped Persons Fee",
+                "Departure",
+                "Infants under 2, Deportees"
+            ]
+        },
+        {
+            "VD": [
+                "Airport Service Charge",
+                "Departure",
+                "Infants under 2, Foreign diplomats, Airline crew on duty"
+            ]
+        },
+        {
+            "VF": [
+                "National Aid Tax",
+                "Departure",
+                "Infants under 2, Deportees"
+            ]
+        },
+        {
+            "YE": [
+                "Tourism Tax",
+                "Departure",
+                "Diplomats, Deportees,Infants under 2"
+            ]
+        },
+        {
+            "RY": [
+                "Sales Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "YT": [
+        "Mayotte",
+        {
+            "F9": [
+                "Embarkation Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "FR": [
+                "Domestic and International Airport Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "FR": [
+                "French Civil Aviation Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "IZ": [
+                "Air Passenger Solidarity Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "YT": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "ZM": [
+        "Zambia",
+        {
+            "H2": [
+                "Passenger Safety Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "JI": [
+                "Air Passenger Service Charge",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "K2": [
+                "CUTE & CUSS Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "QJ": [
+                "Security Charge",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "RM": [
+                "Aviation Infrastructure and Development Charge",
+                "Departure",
+                ""
+            ]
+        }
+    ],
+    "ZW": [
+        "Zimbabwe",
+        {
+            "CB": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2Visiting heads of government/state"
+            ]
+        },
+        {
+            "XI": [
+                "Aviation\u00a0Infrastructural Development Fund Levy Fee",
+                "Departure",
+                "Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "ZW": [
+                "Domestic Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "AG": [
+        "Antigua & Barbuda",
+        {
+            "SH": [
+                "Airport Administrationa Charge",
+                "Both",
+                "Transit/Transfer pax, Infants under 2, Diplomats"
+            ]
+        },
+        {
+            "AG": [
+                "Ticket Tax",
+                "VAT",
+                "Children under 16,  Infants under 2"
+            ]
+        }
+    ],
+    "HN": [
+        "Honduras",
+        {
+            "D1": [
+                "Departure Tax",
+                "Departure",
+                "Diplomats"
+            ]
+        },
+        {
+            "D2": [
+                "Airport User Fee",
+                "Departure",
+                "Foreign Diplomats"
+            ]
+        },
+        {
+            "F4": [
+                "Domestic Security Fee",
+                "Departure",
+                "Diplomats"
+            ]
+        },
+        {
+            "HN": [
+                "Transportation Tax",
+                "VAT",
+                "Governement Officials, Excess baggage"
+            ]
+        }
+    ],
+    "LY": [
+        "Libya",
+        {
+            "B9": [
+                "Security Tax",
+                "Departure",
+                ""
+            ]
+        },
+        {
+            "LY": [
+                "Ticket Tax - International",
+                "Departure",
+                "Government Officials"
+            ]
+        },
+        {
+            "WV": [
+                "Airport Departure Tax",
+                "Departure",
+                "Infants under 2"
+            ]
+        }
+    ],
+    "PY": [
+        "Paraguay",
+        {
+            "BK": [
+                "Airport Departure Tax",
+                "Departure",
+                "Diplomats, Infants under 2"
+            ]
+        },
+        {
+            "PY": [
+                "Transportation Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ],
+    "RO": [
+        "Romania",
+        {
+            "DC": [
+                "Security Charge",
+                "Departure",
+                "Government Officials, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "DT": [
+                "Transfer Passenger Fee",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "HE": [
+                "Airport Development Tax",
+                "Departure",
+                "Government Officials, Infants under 2, Airline crew on duty"
+            ]
+        },
+        {
+            "RO": [
+                "Airport Departure Tax",
+                "Departure",
+                "Infants under 2, Airline crew on duty"
+            ]
+        }
+    ],
+    "VN": [
+        "Vietnam",
+        {
+            "AX": [
+                "Passenger Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "C4": [
+                "Passenger and Baggage Security Screening Service Charge",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "JC": [
+                "Passenger Service Charge - International",
+                "Departure",
+                "Infants under 2"
+            ]
+        },
+        {
+            "UE": [
+                "Value Added Tax",
+                "VAT",
+                ""
+            ]
+        }
+    ]
+}
