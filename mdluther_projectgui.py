@@ -5,6 +5,7 @@ from tkinter import ttk
 from PIL import ImageTk, Image
 from dataclasses import dataclass
 import json
+from tax import Tax
 from country import Country
 
 
