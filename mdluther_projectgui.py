@@ -21,16 +21,6 @@ from country import Country
 widget_background = "#D2D7E0"
 window_background = "#5A6881"
 
-with open("country_data.json") as file:
-    country_data = json.load(file)
-
-tax_list = [
-    Tax(tax_code, *tax)
-    for values in country_data.values()
-    for tax in values[1:]
-    for tax_code, tax in tax.items()
-]
-
 
 class AppWindow(Tk):
     def __init__(self, *args, **kwargs):
@@ -163,7 +153,7 @@ class CountryWindow(Frame):
         self.rowconfigure(0, weight=1)
         self.rowconfigure(1, weight=1)
         self.columnconfigure(0, weight=1)
-        self.canvas_flag = add_canvas_flag(self)
+        self.canvas_flag = self.add_canvas_flag(self)
 
     def add_canvas_flag(self, height=100, width=150):
         canvas = Canvas(
@@ -179,7 +169,7 @@ class CountryWindow(Frame):
             0,
             anchor=NW,
             image=ImageTk.PhotoImage(
-                Image.open(f"./flags/{self.country_code()}.png").resize(
+                Image.open(f"./images/flags/{self.country_code()}.png").resize(
                     (height, width), Image.ANTIALIAS
                 )
             ),
@@ -187,8 +177,27 @@ class CountryWindow(Frame):
 
 
 def main():
-    app = AppWindow()
-    app.mainloop()
+
+    with open("country_data.json") as file:
+        country_data = json.load(file)
+
+    countries = []
+
+    for country_code, country_properties in country_data.items():
+        taxes = sorted(
+            [
+                Tax(taxcode, tax_properties[0], tax_properties[1], tax_properties[2])
+                for taxcode, tax_properties in country_properties[1].items()
+            ]
+        )
+
+        countries.append(Country(country_code, country_properties[0], taxes))
+
+    print(*countries, "\n\n")
+
+
+## app = AppWindow()
+##app.mainloop()
 
 
 if __name__ == "__main__":

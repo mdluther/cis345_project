@@ -1,22 +1,14 @@
 from tax import *
-import json
-
-with open("country_data.json") as file:
-    country_data = json.load(file)
 
 
 class Country:
     def __init__(self, country_code, name, taxes=None):
         self.__country_code = country_code
         self.__name = name
+        self.taxes = taxes if taxes else []
 
-        if not taxes:
-            self.__taxes = [
-                Tax(tax_code, *tax)
-                for values in country_data.values()
-                for tax in values[1:]
-                for tax_code, tax in tax.items()
-            ]
+    def __str__(self):
+        return f"Country Code: {self.country_code}\nName: {self.name}\nTaxes:\n{self.taxes}"
 
     @property
     def country_code(self):
@@ -36,4 +28,8 @@ class Country:
 
     @property
     def taxes(self):
-        return [tax for tax in self.__taxes]
+        return self.__taxes
+
+    @taxes.setter
+    def taxes(self, taxes):
+        self.__taxes = taxes
