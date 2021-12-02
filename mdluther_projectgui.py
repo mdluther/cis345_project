@@ -5,6 +5,7 @@ from tkinter import ttk
 from PIL import ImageTk, Image
 from dataclasses import dataclass
 from country_loader import load_countries
+from country import Country
 
 
 # TODO
@@ -25,6 +26,7 @@ class AppWindow(Tk):
         Tk.__init__(self, *args, **kwargs)
         self.geometry("850x480")
         self.title("SpeedTax")
+        self.countries = load_countries("country_data.json")
 
         try:
             self.iconbitmap("image.jpg")
@@ -36,7 +38,7 @@ class AppWindow(Tk):
         self.add_menu_bar()
         self.add_sidebar()
 
-        self.frames = {}
+        self.workspace_frames = {}
 
         workspace = Frame(self, bg=window_background)
         workspace.grid_propagate(False)
@@ -44,12 +46,10 @@ class AppWindow(Tk):
         workspace.columnconfigure(0, weight=1)
         workspace.grid(row=0, column=1, sticky=NSEW)
 
-        country_containers = []
-
-        for container in country_containers:
-            frame = container(workspace, self)
-            self.frames[container] = frame
-            frame.grid(row=0, column=0, padx=5, pady=5, sticky="nsew")
+        for code, country_object in self.countries.items():
+            frame = CountryWindow(workspace, country_object)
+            self.workspace_frames[code] = frame
+            frame.pack()
 
     def add_menu_bar(self):
         menu_bar = Menu(self)
@@ -111,18 +111,10 @@ class AppWindow(Tk):
         country_listbox = Listbox(sidebar)
         tax_listbox = Listbox(sidebar)
 
-        country_list = sorted([values[0] for values in country_data.values()])
-        tax_list = sorted(
-            [
-                f"{tax_code} - {tax[0]}"
-                for values in country_data.values()
-                for tax in values[1:]
-                for tax_code, tax in tax.items()
-            ]
-        )
-
-        country_listbox.insert(END, *country_list)
-        tax_listbox.insert(END, *tax_list)
+        for country_code, country in self.countries.items():
+            country_listbox.insert(END, f"{country_code} - {country.name}")
+            for tax, properties in country.taxes.items():
+                tax_listbox.insert(END, f"{tax} - {properties.description}")
 
         label_search_box.grid(row=0, columnspan=2)
         search_box.grid(row=1, column=0, padx=5, pady=10)
@@ -167,7 +159,7 @@ class CountryWindow(Frame):
             0,
             anchor=NW,
             image=ImageTk.PhotoImage(
-                Image.open(f"./images/flags/{self.country_code()}.png").resize(
+                Image.open(f"./images/flags/{self.country.country_code()}.png").resize(
                     (height, width), Image.ANTIALIAS
                 )
             ),
@@ -175,13 +167,8 @@ class CountryWindow(Frame):
 
 
 def main():
-
-    countries = load_countries("country_data.json")
-    print(*countries)
-
-
-## app = AppWindow()
-##app.mainloop()
+    app = AppWindow()
+    app.mainloop()
 
 
 if __name__ == "__main__":
