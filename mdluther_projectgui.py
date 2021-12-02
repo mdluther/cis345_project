@@ -4,9 +4,7 @@ from tkinter import *
 from tkinter import ttk
 from PIL import ImageTk, Image
 from dataclasses import dataclass
-import json
-from tax import Tax
-from country import Country
+from country_loader import load_countries
 
 
 # TODO
@@ -178,22 +176,8 @@ class CountryWindow(Frame):
 
 def main():
 
-    with open("country_data.json") as file:
-        country_data = json.load(file)
-
-    countries = []
-
-    for country_code, country_properties in country_data.items():
-        taxes = sorted(
-            [
-                Tax(taxcode, tax_properties[0], tax_properties[1], tax_properties[2])
-                for taxcode, tax_properties in country_properties[1].items()
-            ]
-        )
-
-        countries.append(Country(country_code, country_properties[0], taxes))
-
-    print(*countries, "\n\n")
+    countries = load_countries("country_data.json")
+    print(*countries)
 
 
 ## app = AppWindow()

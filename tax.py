@@ -9,4 +9,4 @@ class Tax:
     exemptions: list()
 
     def __repr__(self):
-        return f"Code: {self.tax_code}\nDescription: {self.description}\nType: {self.tax_type}\nExemptions: {self.exemptions}"
+        return f"\n\tCode: {self.tax_code}\n\tDescription: {self.description}\n\tType: {self.tax_type}\n\tExemptions: {self.exemptions}\n"

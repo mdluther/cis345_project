@@ -1,6 +1,3 @@
-from tax import *
-
-
 class Country:
     def __init__(self, country_code, name, taxes=None):
         self.__country_code = country_code
@@ -8,7 +5,7 @@ class Country:
         self.taxes = taxes if taxes else []
 
     def __str__(self):
-        return f"Country Code: {self.country_code}\nName: {self.name}\nTaxes:\n{self.taxes}"
+        return f"\nCountry Code: {self.country_code}\nName: {self.name}\nTaxes:{''.join(map(str, self.taxes))}\n"
 
     @property
     def country_code(self):
