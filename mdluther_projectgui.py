@@ -147,7 +147,7 @@ class AppWindow(Tk):
 
         sidebar.grid(row=0, column=0, rowspan=2, sticky=NS)
 
-    def highlight_option(self, listbox, search_value):
+    def search_listbox(self, listbox, search_value):
         for i in range(listbox.size()):
             if search_value.get().lower() in listbox.get(i).lower():
                 listbox.selection_set(i)
@@ -163,9 +163,9 @@ class CountryWindow(Frame):
         self.rowconfigure(0, weight=1)
         self.rowconfigure(1, weight=1)
         self.columnconfigure(0, weight=1)
-        self.add_canvas_flag(self, "./images/vg.png")
+        self.canvas_flag = add_canvas_flag(self)
 
-    def add_canvas_flag(self, filepath, height=100, width=150):
+    def add_canvas_flag(self, height=100, width=150):
         canvas = Canvas(
             self,
             background="black",
@@ -179,7 +179,9 @@ class CountryWindow(Frame):
             0,
             anchor=NW,
             image=ImageTk.PhotoImage(
-                Image.open(filepath).resize((height, width), Image.ANTIALIAS)
+                Image.open(f"./flags/{self.country_code()}.png").resize(
+                    (height, width), Image.ANTIALIAS
+                )
             ),
         )
 
