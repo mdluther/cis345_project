@@ -7,14 +7,6 @@ from dataclasses import dataclass
 from country_loader import load_countries
 
 
-# TODO
-
-# Populate Country Frame
-# Add Country flags
-# Clean up styling
-# Add admin mode for editing tax info
-# Improve search feature
-
 widget_background = "#D2D7E0"
 window_background = "#5A6881"
 
@@ -141,30 +133,22 @@ class CountryFrame(Frame):
         Frame.__init__(self, parent)
         self.country = country
         self.config(bg="white", relief=RAISED, borderwidth=1)
-        self.rowconfigure(0, weight=1)
-        self.rowconfigure(1, weight=1)
-        self.columnconfigure(0, weight=1)
-        self.canvas_flag()
 
-    def canvas_flag(self, height=50, width=80):
-        path = f"./images/flags/{self.country.country_code}.png"
-        canvas = Canvas(
-            self,
-            background="blue",
-            width=height,
-            height=width,
-            relief="ridge",
-            highlightthickness=1,
+        name = Label(self, text=self.country.name)
+
+        name.pack()
+
+        raw_image = Image.open("./images/flags/ae.png")
+        raw_image.resize(
+            (width := 50, width * int(raw_image.size[0] / raw_image.size[1])),
+            Image.ANTIALIAS,
         )
-        canvas.create_image(
-            0,
-            0,
-            anchor=NW,
-            image=ImageTk.PhotoImage(
-                Image.open(path).resize((height, width), Image.ANTIALIAS)
-            ),
-        )
-        canvas.grid(row=0, column=0, sticky=NSEW)
+        flag_image = ImageTk.PhotoImage(raw_image)
+
+        flag_widget = Label(self, image=flag_image)
+        flag_widget.photo = flag_image
+
+        flag_widget.pack()
 
 
 def main():
