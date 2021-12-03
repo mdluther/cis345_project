@@ -5,12 +5,10 @@ from tkinter import ttk
 from PIL import ImageTk, Image
 from dataclasses import dataclass
 from country_loader import load_countries
-from country import Country
 
 
 # TODO
-# Implement Tax class
-# Implement Country Classes
+
 # Populate Country Frame
 # Add Country flags
 # Clean up styling
@@ -29,7 +27,7 @@ class AppWindow(Tk):
         self.countries = load_countries("country_data.json")
 
         try:
-            self.iconbitmap("image.jpg")
+            self.iconbitmap("./images/icon.ico")
         except:
             print("Image not found")
 
@@ -38,18 +36,21 @@ class AppWindow(Tk):
         self.add_menu_bar()
         self.add_sidebar()
 
-        self.workspace_frames = {}
+        self.country_frames = {}
 
         workspace = Frame(self, bg=window_background)
         workspace.grid_propagate(False)
         workspace.rowconfigure(0, weight=1)
         workspace.columnconfigure(0, weight=1)
-        workspace.grid(row=0, column=1, sticky=NSEW)
 
         for code, country_object in self.countries.items():
-            frame = CountryWindow(workspace, country_object)
-            self.workspace_frames[code] = frame
-            frame.pack()
+            frame = CountryFrame(workspace, country_object)
+            self.country_frames[code] = frame
+            frame.grid(row=0, column=0, sticky=NSEW)
+
+        workspace.grid(row=0, column=1, sticky=NSEW)
+
+        self.show_frame("CU")
 
     def add_menu_bar(self):
         menu_bar = Menu(self)
@@ -66,8 +67,8 @@ class AppWindow(Tk):
 
         help_menu.add_command(label="About", command=None)
 
-    def show_frame(self, controller):
-        frame = self.frames[controller]
+    def show_frame(self, code):
+        frame = self.country_frames[code]
         frame.tkraise()
 
     def show_listbox(self, listbox):
@@ -135,7 +136,7 @@ class AppWindow(Tk):
                 break
 
 
-class CountryWindow(Frame):
+class CountryFrame(Frame):
     def __init__(self, parent, country):
         Frame.__init__(self, parent)
         self.country = country
@@ -143,27 +144,27 @@ class CountryWindow(Frame):
         self.rowconfigure(0, weight=1)
         self.rowconfigure(1, weight=1)
         self.columnconfigure(0, weight=1)
-        self.canvas_flag = self.add_canvas_flag(self)
+        self.canvas_flag()
 
-    def add_canvas_flag(self, height=100, width=150):
+    def canvas_flag(self, height=50, width=80):
+        path = f"./images/flags/{self.country.country_code}.png"
         canvas = Canvas(
             self,
-            background="black",
+            background="blue",
             width=height,
             height=width,
             relief="ridge",
             highlightthickness=1,
         )
-        return canvas.create_image(
+        canvas.create_image(
             0,
             0,
             anchor=NW,
             image=ImageTk.PhotoImage(
-                Image.open(f"./images/flags/{self.country.country_code()}.png").resize(
-                    (height, width), Image.ANTIALIAS
-                )
+                Image.open(path).resize((height, width), Image.ANTIALIAS)
             ),
         )
+        canvas.grid(row=0, column=0, sticky=NSEW)
 
 
 def main():
