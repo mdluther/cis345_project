@@ -16,7 +16,7 @@ class AppWindow(Tk):
         Tk.__init__(self, *args, **kwargs)
         self.geometry("850x480")
         self.title("SpeedTax")
-        self.countries = load_countries("country_data.json")
+        self.countries = load_countries("mdluther-country_data.json")
 
         try:
             self.iconbitmap("./images/icon.ico")
