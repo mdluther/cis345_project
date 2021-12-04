@@ -132,11 +132,50 @@ class CountryFrame(Frame):
     def __init__(self, parent, country):
         Frame.__init__(self, parent)
         self.country = country
-        self.config(bg="white", relief=RAISED, borderwidth=1)
+        self.config(bg="black", relief=RAISED, borderwidth=1)
 
+        country_code = Label(self, text=self.country.country_code)
         name = Label(self, text=self.country.name)
 
+        country_code.pack()
         name.pack()
+
+        # country_code.grid(row=0, column=0)
+        #  name.grid(row=0, column=1)
+
+        tax_code_labels = []
+        tax_properties_headers = []
+        tax_properties_labels = []
+
+        for tax, properties in self.country.taxes.items():
+            tax_code_labels.append(Label(self, text=f"{tax} Tax"))
+
+            tax_properties_labels.append(Label(self, text=f"{tax} Description:"))
+            tax_properties_headers.append(Label(self, text=f"{tax} Type:"))
+            tax_properties_headers.append(Label(self, text=f"{tax} Exemption(s):"))
+
+            tax_properties_labels.append(Label(self, text=f"{properties.description}"))
+            tax_properties_labels.append(Label(self, text=f"{properties.tax_type}"))
+            tax_properties_labels.append(Label(self, text=f"{properties.exemptions}"))
+
+            for label in tax_code_labels:
+                label.pack()
+            for label in tax_properties_headers:
+                label.pack()
+            for label in tax_properties_labels:
+                label.pack()
+
+        ## Working on grid. For now just packed.
+        # for i in range(len(tax_code_labels)):
+        #     count = 0
+        #    tax_code_labels[i].grid(row=count, column=0)
+        #    for j in range(len(tax_properties_headers)):
+        #        count += 1
+        #        tax_properties_headers[j].grid(row=count, column=1)
+        #        for k in range(len(tax_properties_labels)):
+        #            count += 1
+        #             tax_properties_headers[k].grid(row=count, column=2)
+        #     count += 1
 
         raw_image = Image.open("./images/flags/ae.png")
         raw_image.resize(
@@ -149,6 +188,7 @@ class CountryFrame(Frame):
         flag_widget.photo = flag_image
 
         flag_widget.pack()
+        # flag_widget.grid(row=0, column=2)
 
 
 def main():
